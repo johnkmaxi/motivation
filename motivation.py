@@ -20,7 +20,7 @@ def helloCallBack():
 		  "Life isn't about getting and having, it's about giving and being. - Kevin Kruse",
 		  "Life is what happens to you while you're busy making other plans. - John Lennon",
 		  "We become what we think about. - Earl Nightingale",
-		  "Twenty years from now you will be more disappointed by the things that you didn�t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover. - Mark Twain",
+		  "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover. - Mark Twain",
 		  "Life is 10% what happens to me and 90% of how I react to it. - Charles Swindoll",
 		  "The most common way people give up their power is by thinking they don't have any. - Alice Walker",
 		  "The mind is everything. What you think you become.  - Buddha",
@@ -38,7 +38,7 @@ def helloCallBack():
 		  "The two most important days in your life are the day you are born and the day you find out why. - Mark Twain",
 		  "Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it. - Johann Wolfgang von Goethe",
 		  "The best revenge is massive success. - Frank Sinatra",
-		  "People often say that motivation doesn't last. Well, neither does bathing.  That�s why we recommend it daily. - Zig Ziglar",
+		  "People often say that motivation doesn't last. Well, neither does bathing.  That's why we recommend it daily. - Zig Ziglar",
 		  "Life shrinks or expands in proportion to one's courage. - Anais Nin"]
 
 	quote = random.choice(quotes)
